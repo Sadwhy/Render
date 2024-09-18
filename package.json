@@ -1,0 +1,22 @@
+{
+  "name": "my-render-api",
+  "version": "1.0.0",
+  "description": "restapi test",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "render"
+  },
+  "keywords": [
+    "what?"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
